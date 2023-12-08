@@ -34,13 +34,11 @@ body {
 
 }
 
-.header nav {
-    list-style-type: none;
-}
 
 .header nav {
-    display: inline-block;
+    /* display: inline-block; */
     margin-left: 25px;
+    float: right;
 }
 
 a {
