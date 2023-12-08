@@ -7,3 +7,9 @@ I built this for my client to help my client's search engine optimization featur
 
 I learned how important semantic elements are for a webpage's functionality and how important it is to improve the codebase for long-term sustainability.
 
+## Table of Contents
+
+I - Search Engine Optimization
+II - Online Reputation Management
+III -  Social Media Marketing
+IV - Lead Generation, Brand Awareness, Cost Management
