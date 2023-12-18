@@ -1,5 +1,7 @@
 # horiseon_portfolio
 
+ ![Horiseon app](./assets/images/horiseon.PNG)
+
 ## Description 
 My motivation for this project is to fulfill my client's marekting needs by helping them generate more traffic through SEO strategies with semantic elements.
 
