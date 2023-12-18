@@ -1,3 +1,4 @@
+/* global */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header styles */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -34,7 +36,7 @@ body {
 
 }
 
-
+/* navigation styles */
 .header nav {
     /* display: inline-block; */
     margin-left: 25px;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* hero styles */
 .hero {
     height: 800px;
     width: 100%;
@@ -188,6 +191,7 @@ p {
     font-size: 36px;
 }
 
+/* footer styles */
 .footer {
     padding: 30px;
     clear: both;
